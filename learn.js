@@ -1,3 +1,3 @@
 function one(input){
-    return input * 10;
+    return input * 13;
 }
